@@ -1,6 +1,9 @@
 -- Credits to: "bryan250420" (same username for both discord & roblox)
 -- Coded on Visual Studio Code using Rojo
 
+-- Avatar Catalog System!
+-- Note: Currently only allows for shirt assets
+
 -- === Imports ===
 local AvatarEditorService = game:GetService("AvatarEditorService");
 local ContentProvider = game:GetService("ContentProvider");
