@@ -1,4 +1,4 @@
--- Credits to: "bryan250420" (same username for both discord & roblox)
+-- Credits: "bryan250420" (same username for both discord & roblox)
 -- Coded on Visual Studio Code using Rojo
 
 -- Avatar Catalog System!
